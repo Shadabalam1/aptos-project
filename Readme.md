@@ -18,6 +18,6 @@ The **MembershipSystem** smart contract provides a decentralized solution for ma
 2. **Upgradable Membership Plans**:
    - Allow providers to offer different tiers of memberships with varying benefits.
 3. **Discounts and Incentives**:
-   - Introduce discounts or bonus renewals for long-term users or bulk membership purchases.
+   - Introduce discounts or bonus renewals for long-term users or bulk membership purchases
 
 The **MembershipSystem** aims to simplify and decentralize membership management, providing a transparent and efficient process for both users and service providers.
